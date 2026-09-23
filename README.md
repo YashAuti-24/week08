@@ -1,4 +1,4 @@
-# Week 08 – Continuous Delivery with GitHub Actions and Kubernetes
+# Week 08 – Continuous Delivery with GitHub Actions
 
 In Week 07, we implemented a Continuous Integration (CI) pipeline using GitHub Actions. The pipeline automatically tested the backend services, built Docker images, and pushed the successfully built images to Azure Container Registry (ACR).
 
